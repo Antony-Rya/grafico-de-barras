@@ -1,10 +1,15 @@
-"Disciplina", "Nota"
-"Matematica", "34" 
-"Português", "89"
-"Historia", "80"
-"Biologia", "90"
-"Quimica", "45"
-"Fisica", "30"
-"Ed.Fisica", "100"
-"Filosofia", "95"
-"Sociologia", "95"
+Nome do Aluno,Nota1,Nota2,Nota3,Média
+Ana Silva,75,45,85,60
+João Oliveira,80,78,72,79
+Maria Santos,62,56,90,59
+Pedro Costa,91,76,68,83.5
+Carla Pereira,58,86,79,72
+Lucas Ferreira,70,84,56,77
+Beatriz Almeida,86,35,82,60.5
+Gabriel Souza,93,67,64,80
+Fernanda Lima,67,87,93,77
+Rafael Martins,78,95,75,86.5
+Juliana Rocha,54,100,89,77
+Daniel Campos,81,47,61,64
+Larissa Almeida,90,85,77,87.5
+Bruno Silva,69,65,59,67
