@@ -1,10 +1,13 @@
 import matplotlib as mpl
 import pandas as pd
-mpl.use('Agg')
 import matplotlib.pyplot as plt
+mpl.use('Agg')
 df = pd.read_csv('informacoes.csv')
+# eixoX = ['Branca', 'Preta', 'Amarela', 'Parda', 'indigena']
+# eixoY = []
 eixoX = df['Cor']
-eixoY = df["Percentual"]
+# eixoY = df['Total']
+eixoY = df['Percentual']
 fig, ax = plt.subplots(figsize=(8, 5))
 plt.title("Declarações")
 plt.bar(eixoX, eixoY)
